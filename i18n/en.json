@@ -425,6 +425,7 @@
   "ACCESS_TOKEN_CREATED_TITLE": "Access token created",
   "ACCESS_TOKEN_CREATED_BODY": "Access token with id {{id}} created successfully",
   "DATE_CANNOT_BE_BACKDATED": "Bad expiration field, it cannot be backdated",
+  "NEVER_EXPIRE": "Never",
 
   "ADD_NEW": "Add new",
   "CHOOSE_TAGS": "Choose tags",
