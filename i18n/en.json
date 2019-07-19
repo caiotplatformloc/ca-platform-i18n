@@ -461,6 +461,7 @@
 
   "ARE_YOU_SURE_LEAVE_PROJECT": "Are you sure you want to leave this project?",
   "LEAVE": "Leave",
-  "NAME_PROJECT_EXIST": "This name already exists in IoT platform"
+  "NAME_PROJECT_EXIST": "This name already exists in IoT platform",
+  "ID_PROCJECT_EXIST": "This project ID already exists"
 
 }
