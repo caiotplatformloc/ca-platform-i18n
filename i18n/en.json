@@ -465,6 +465,7 @@
   "NAME_PROJECT_EXIST": "This name already exists in IoT platform",
   "ID_PROCJECT_EXIST": "This project ID already exists in IoT platform",
   "CHART_ALERT_NO_DATA": "Your device doesn't send any data",
+  "GRAPH": "Graph",
   "LAST_5_MINUTES": "Last 5 minutes",
   "LAST_10_MINUTES": "Last 10 minutes",
   "LAST_15_MINUTES": "Last 15 minutes",
