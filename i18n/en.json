@@ -463,6 +463,6 @@
   "LEAVE": "Leave",
   "NAME_PROJECT_EXIST": "This name already exists in IoT platform",
   "ID_PROCJECT_EXIST": "This project ID already exists in IoT platform",
-  "REFRESH_DASHBOARDS": "Refreshed the dashboard"
+  "REFRESH_DASHBOARD": "Refreshed the dashboard"
 
 }
