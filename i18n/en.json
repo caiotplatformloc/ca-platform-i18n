@@ -321,7 +321,7 @@
   "TYPE_HERE_PROJECT_ID": "Type here project id",
   "TYPE_HERE_PROJECT_NAME": "Type here project name",
   "TYPE_HERE_ATTRIBUTE_AND_VALUE": "Type here {\"attirbute name\": \"attribute value\"}",
-  "NO_RESULT_FOUND": "No results found",
+  "NO_RESULTS_FOUND": "No results found",
 
   "ACTIVATE": "Activate",
   "DEACTIVATE": "Deactivate",
