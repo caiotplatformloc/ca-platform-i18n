@@ -471,6 +471,7 @@
   "LEAVE": "Leave",
   "NAME_PROJECT_EXIST": "This name already exists in IoT platform",
   "ID_PROCJECT_EXIST": "This project ID already exists in IoT platform",
+  
   "CHART_ALERT_NO_DATA": "Your device doesn't send any data",
   "GRAPH": "Graph",
   "LAST_5_MINUTES": "Last 5 minutes",
@@ -535,10 +536,10 @@
   "TABLE": "Table",
   "LINE_GRAPH": "Line graph",
   "LOADING_DATA": "Loading data...",
-  "DEVICE_NOT_CONTAIN_ANY_PROPERTY": "Device not contain any property"
-
+  "DEVICE_NOT_CONTAIN_ANY_PROPERTY": "Device not contain any property",
+  "LOAD_MORE": "Load more",
+  
   "REFRESH_DASHBOARD": "Refreshed the dashboard",
   "LAST": "Last",
   "FIRST": "First"
-
 }
