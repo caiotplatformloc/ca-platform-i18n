@@ -119,7 +119,7 @@
   "SCHEDULES_CANCELED_BODY": "Selected schedule has been canceled",
 
   "ASSIGN": "Assign",
-  "ADD_DEVICES_FROM_REPOSITORY": "Add devices from repository"
+  "ADD_DEVICES_FROM_REPOSITORY": "Add devices from repository",
   "DEVICE_ADDED_TITLE": "Device has been added",
   "DEVICE_ADDED_BODY": "Device {{deviceName}} has been added to the project {{projectName}}",
   "DEVICES_ADDED_TITLE": "Devices have been added",
@@ -350,7 +350,7 @@
   "RULE_ADDED_BODY": "Rule has been added to the project",
   "RULE_WIZARD": "Rule wizard",
   "RULES_DESCRIPTION_HINT": "Descriptions help to identify rules on the list.",
-  "RULES_LIST_IS_EMPTY": "Rules list is empty"
+  "RULES_LIST_IS_EMPTY": "Rules list is empty",
   "ACTIVE": "Active",
   "INACTIVE": "Inactive",
   "RULES": "Rules",
@@ -362,7 +362,7 @@
   "CONFIRM_LEAVE_UPDATING": "Do you really want to leave updating rule?",
   "CONFIRM_LEAVE_CREATING": "Do you really want to leave creating rule?",
   "CHANGES_NOT_BE_SAVED": "Changes you made may not be saved",
-  "DATA_WILL_BE_LOST": "All the configured data will be lost"
+  "DATA_WILL_BE_LOST": "All the configured data will be lost",
   "MQTT_TOPIC_RESTRICTIONS": "Non slash character must follow by the slash",
   "MQTT_URL_RESTRICTIONS": "MQTT url cannot contains whitespace characters",
   "WEB_URL_RESTRICTIONS": "Uri must starts with http:// or https:// followed by any characters",
