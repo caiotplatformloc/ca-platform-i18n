@@ -535,7 +535,7 @@
   "DEVICE_HISTORY": "Device history",
   "TABLE": "Table",
   "LINE_GRAPH": "Line graph",
-  "DEVICE_NOT_CONTAIN_ANY_PROPERTY": "Device not contain any property",
+  "DEVICE_NOT_CONTAIN_ANY_PROPERTY": "Device doesn't contain any property",
   "LOAD_MORE": "Load more",
   
   "REFRESH_DASHBOARD": "Refreshed the dashboard",
