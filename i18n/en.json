@@ -584,5 +584,7 @@
   
   "REFRESH_DASHBOARD": "Refreshed the dashboard",
   "LAST": "Last",
-  "FIRST": "First"
+  "FIRST": "First",
+  "LOADING_ALERTS": "Loadning alerts"
+  
 }
