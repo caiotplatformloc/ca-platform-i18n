@@ -585,6 +585,7 @@
   "REFRESH_DASHBOARD": "Refreshed the dashboard",
   "LAST": "Last",
   "FIRST": "First",
-  "LOADING_ALERTS": "Loadning alerts"
+  "LOADING_ALERTS": "Loadning alerts",
+  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts"
   
 }
