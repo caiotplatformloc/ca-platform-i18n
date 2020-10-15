@@ -238,6 +238,9 @@
   "SUCCESSFULLY_RESTORED_DEVICE": "Successfully restored device '{{deviceId}}'",
   "CANNOT_RESTORE_DEVICE": "Cannot restore device '{{deviceId}}': {{message}}",
   "RESTORE": "Restore",
+  "IF_YOU_WANT_FILTER_CHANNELS": "If you want to filter channels by channel id, name or type write: <br><b>property:value</b>",
+  "CHANNELS_FILTER_PLACEHOLDER": "Search channel id, name or type",
+  "CHANNELS_PROPERTIES_DO_NOT_EXISTS": "Specified properties do not exists. You can type \"id\", \"name\" or \"type\"",
   
   "SINCE": "Since",
   "UNTIL": "Until",
