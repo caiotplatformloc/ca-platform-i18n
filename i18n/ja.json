@@ -863,7 +863,8 @@
   "MAXIMUM_VALUE" : "最大値",
   "MINIMUM_EXCLUSIVE_VALUE" : "除外最小値",
   "MAXIMUM_EXCLUSIVE_VALUE" : "除外最大値",
-  "DEFAULT_VALUE" : "値",
+  "DEFAULT_VALUE": "デフォルト値",
+  "ENUM_VALUE": "Enum値",
   "TEMPLATE_PROPERTIES" : "テンプレート・プロパティ",
   "REMOVING_TEMPLATE": "テンプレート削除確認",
   "REMOVING_TEMPLATE_BODY": "テンプレートを削除しますか？",
@@ -878,5 +879,11 @@
   "EDIT_PARAMETER": "パラメータ編集",
   "COMMANDS": "コマンド",
   "TEMPLATES": "テンプレート",
-  "COMMANDS_LIST": "コマンドリスト"
+  "COMMANDS_LIST": "コマンドリスト",
+  "TEMPLATE_NAME_RESTRICTIONS": "テンプレート名には半角英数字、ハイフン、アンダースコアのみ使用可能です。開始文字には半角英数字のみが指定可能です。",
+  "TEMPLATE_NAME_TAKEN": "指定された名前のテンプレートがすでに存在します。",
+  "EDIT_TEMPLATE": "テンプレート編集",
+  "TEMPLATE_UPDATE_ERROR_TITLE": "更新エラー",
+  "TEMPLATE_UPDATE_ERROR_BODY": "テンプレートを更新できません。再度お試しください。",
+  "N0_TEMPLATES": "登録済みのテンプレートはありません。"
 }
